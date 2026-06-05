@@ -1,20 +1,27 @@
-### Hi there! 👋 I'm @grimsteel
+<h2 style="display: flex; align-items: center; gap: 2rem;">
+  <img src="https://kameswar.com/favicon.png" height="22" />
+  <span>Hi! I'm Siddhant Kameswar</span>
+</h2>
 
-<!--[![grimsteel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grimsteel&show_icons=true&count_private=true&bg_color=30,51372e,89391d&ring_color=fff&custom_title=grimsteel%27s%20Github%20Stats&include_all_commits=true&title_color=d9ccc8&icon_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![grimsteel's GitHub stats](https://github-readme-stats.kameswar.com/api?username=grimsteel&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha) ![Languages](https://github-readme-stats.kameswar.com/api/top-langs/?username=grimsteel&layout=donut&theme=catppuccin_mocha&langs_count=7&hide=html)
+
+### Who am I?
+
+I'm a high school student (class of '27) passionate about computer science, electronics, and more.
+
+I've built complex web applications and browser extensions, developed countless mobile apps, and worked with embedded systems and IOT, just to name a few things.
+
+[Contact me →](https://kameswar.com/contact)
 
 
-**grimsteel/grimsteel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Check out my website: https://kameswar.com
 
-Here are some ideas to get you started:
+### Featured Repos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![pass-secret-service](https://github-readme-stats.kameswar.com/api/pin/?username=grimsteel&repo=pass-secret-service&theme=catppuccin_mocha)](https://github.com/grimsteel/pass-secret-service) [![Club Hub](https://github-readme-stats.kameswar.com/api/pin/?username=ww-club-hub&repo=club-hub-web&theme=catppuccin_mocha)](https://github.com/ww-club-hub/club-hub-web) [![Home Assistant RF Bridge](https://github-readme-stats.kameswar.com/api/pin/?username=grimsteel&repo=homeassistant-rf-bridge&theme=catppuccin_mocha)](https://github.com/grimsteel/homeassistant-rf-bridge)
 
-// TODO: Fill this out
+#### Check out all of [my projects](https://kameswar.com/projects) or [my repos](https://github.com/grimsteel?tab=repositories)!
+
+### GitHub Activity:
+
+GitHub doesn't yet have a way to show the contribution graph with a private profile, sorry!
